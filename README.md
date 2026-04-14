@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ANJANA14307/GitHub-portfolio/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ANJANA14307/GitHub-portfolio/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ANJANA14307/GitHub-portfolio/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
